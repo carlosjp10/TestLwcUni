@@ -5,7 +5,7 @@
         }
     </style>
 
-    <script src="https://unimedrp--dev.sandbox.my.site.com/formularios/lightning/lightning.out.js"></script>
+    <script src="https://unimedrp--dev.sandbox.my.site.com/lightning/lightning.out.js"></script>
     </script>
     <div data-lightning-out="true"></div>
 
